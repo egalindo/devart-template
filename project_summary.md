@@ -13,8 +13,7 @@ Based on this premise my main motivation is to show something to the machines th
 
 
 ##Links to External Libraries
-- OpenCV
-- Python
+- [OpenCV](http://opencv.org/)
 
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
