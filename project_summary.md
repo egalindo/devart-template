@@ -12,6 +12,8 @@ This project proposes to capture the essence of what happens around us from the 
 Based on this premise my main motivation is to show something to the machines that we as humans take for granted like imnato of the life.
 
 
+##Links to External Libraries
+opencv
 
 
 ## Images & Videos
