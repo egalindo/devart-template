@@ -9,13 +9,13 @@
         "toolkits": [
             "OpenCV"
         ],
-        "language": [
+        "languages": [
             "C"
         ],
-        "language": [
+        "languages": [
             "C++"
         ],
-        "language": [
+        "languages": [
             "Python"
         ]
         
