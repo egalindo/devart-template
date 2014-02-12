@@ -13,9 +13,16 @@ Based on this premise my main motivation is to show something to the machines th
 
 
 ##Links to External Libraries
-- opencv : [opencv.org]
-- python
-
+{
+    "technologies": {
+        "platforms": [
+            "Linux"
+        ],
+        "toolkits": [
+            "opencv"
+        ]
+    }
+}
 
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
