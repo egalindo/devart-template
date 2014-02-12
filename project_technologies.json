@@ -4,13 +4,13 @@
             "insert apis"
         ],
         "platforms": [
-            "insert platforms"
+            "Linux"
         ],
         "toolkits": [
-            "insert toolkits"
+            "OpenCV"
         ]
     },
     "themes": [
-        "insert themes"
+        "C"
     ]
 }
