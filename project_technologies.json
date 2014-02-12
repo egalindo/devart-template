@@ -8,19 +8,11 @@
         ],
         "toolkits": [
             "OpenCV"
-        ],
-        "languages": [
-            "C"
-        ],
-        "languages": [
-            "C++"
-        ],
-        "languages": [
-            "Python"
         ]
         
     },
-    "languages": [
-            "Python"
+    "themes": [
+            "Tech",
+            "View"
         ]
 }
