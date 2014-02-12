@@ -5,11 +5,11 @@
 
 
 ## Description
-We perceive and feel about our world, and we are constantly looking for new experiences, we perceive infinite things inanimate aceladamente our changing world by technology, but How the technology perceives us? 
+We perceive and feel about our world, and we are constantly looking for new experiences. We perceive infinite things inanimate that changing rapidly our world by technology but How the technology perceives us?
 
-This project proposes to capture the essence of what happens around us from the perspective of objects, objects to which we have dated for vision, brain interface, multiple sensors to capture natural variables and a screen to show us all that we need of these objects and yet not have the ability to feel even with all these capabilities, or to express anything direfente Why us ordain them. 
+This project proposes to capture the essence of what happens around us from the perspective of objects, objects to which we have gifted of vision, brain interface, multiple sensors to capture natural variables and a screen to show us all that we need of these objects and yet not have the ability to feel even with all these capabilities, or to express anything direfente of the orders that we give them.
 
-Based on this premise my main motivation is to show something to the machines that we as humans take for granted like imnato life.
+Based on this premise my main motivation is to show something to the machines that we as humans take for granted like imnato of the life.
 
 
 
