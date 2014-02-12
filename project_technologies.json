@@ -1,14 +1,24 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "g+"
         ],
         "platforms": [
             "Linux"
         ],
         "toolkits": [
             "OpenCV"
+        ],
+        "language": [
+            "C"
+        ],
+        "language": [
+            "C++"
+        ],
+        "language": [
+            "Python"
         ]
+        
     },
     "themes": [
         "C"
