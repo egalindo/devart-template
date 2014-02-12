@@ -13,7 +13,8 @@ Based on this premise my main motivation is to show something to the machines th
 
 
 ##Links to External Libraries
-- opencv (http://opencv.org)
+- opencv : [opencv.org]
+- python
 
 
 ## Images & Videos
